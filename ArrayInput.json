@@ -1,0 +1,24 @@
+[{
+	"name": "Nairobi",
+	"age": 23,
+	"job": "Developer",
+	"salary":10
+},
+{
+	"name": "Tokyo",
+	"age": 40,
+	"job": "Lead",
+	"salary":100
+},
+{
+	"name": "Berlin",
+	"age": 53,
+	"job": "Manager",
+	"salary":10000
+},
+{
+	"name": "Nairobi",
+	"age": 23,
+	"job": "Developer",
+	"salary":10
+}]
